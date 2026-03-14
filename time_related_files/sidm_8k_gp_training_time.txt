@@ -1,0 +1,72 @@
+Processor: AMD EPYC-Milan Processor
+Machine: x86_64
+CPU count (logical): 200
+Environment cores requested: 128
+Python version: 3.9.23
+Loaded spectra from /home/sti50/project_shreyas_sidm/holodeck_output/post_holodeck_redshift_minus1_fix/correct_prior_implementation/SIDM_Astro_Uniform_Extended_Version2_n8000_r2000_f5/library/sam-library.hdf5
+Found 0.00e+00/8.00e+03 = 0.00e+00 samples with NaN entries.  Removing them from library.
+setting aside 0.0 of samples (0) for testing, and choosing 5 frequencies
+mpi=False
+0 Running burn-in
+0 Running second burn-in
+0 Running production
+Completed 0 out of 4 in 199.01 min
+
+1 Running burn-in
+1 Running second burn-in
+1 Running production
+Completed 1 out of 4 in 196.75 min
+
+2 Running burn-in
+2 Running second burn-in
+2 Running production
+Completed 2 out of 4 in 194.57 min
+
+3 Running burn-in
+3 Running second burn-in
+3 Running production
+Completed 3 out of 4 in 194.55 min
+
+4 Running burn-in
+4 Running second burn-in
+4 Running production
+Completed 4 out of 4 in 193.86 min
+
+Kernel construction time: 0.00 min
+MCMC time: 978.75 min
+Total GP training time: 978.78 min
+GPs are saved at /home/sti50/project_shreyas_sidm/holodeck_output/post_holodeck_redshift_minus1_fix/correct_prior_implementation/SIDM_Astro_Uniform_Extended_Version2_n8000_r2000_f5/gp_training_output/med.pkl
+Loaded spectra from /home/sti50/project_shreyas_sidm/holodeck_output/post_holodeck_redshift_minus1_fix/correct_prior_implementation/SIDM_Astro_Uniform_Extended_Version2_n8000_r2000_f5/library/sam-library.hdf5
+Found 0.00e+00/8.00e+03 = 0.00e+00 samples with NaN entries.  Removing them from library.
+setting aside 0.0 of samples (0) for testing, and choosing 5 frequencies
+mpi=False
+0 Running burn-in
+0 Running second burn-in
+0 Running production
+Completed 0 out of 4 in 199.77 min
+
+1 Running burn-in
+1 Running second burn-in
+1 Running production
+Completed 1 out of 4 in 198.92 min
+
+2 Running burn-in
+2 Running second burn-in
+2 Running production
+Completed 2 out of 4 in 198.44 min
+
+3 Running burn-in
+3 Running second burn-in
+3 Running production
+Completed 3 out of 4 in 198.19 min
+
+4 Running burn-in
+4 Running second burn-in
+4 Running production
+Completed 4 out of 4 in 202.32 min
+
+Kernel construction time: 0.00 min
+MCMC time: 997.64 min
+Total GP training time: 997.67 min
+GPs are saved at /home/sti50/project_shreyas_sidm/holodeck_output/post_holodeck_redshift_minus1_fix/correct_prior_implementation/SIDM_Astro_Uniform_Extended_Version2_n8000_r2000_f5/gp_training_output/std.pkl
+Training time: 1976.46 minutes

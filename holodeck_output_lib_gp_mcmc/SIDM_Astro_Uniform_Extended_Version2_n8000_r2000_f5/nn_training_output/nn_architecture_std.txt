@@ -1,0 +1,12 @@
+training samples 8000
+activation function ReLU
+layer_1 16
+layer_2 32
+layer_3 16
+L2 regularization lambda (applied to all layers) 0.0
+epochs 1000
+training_set_path /home/sti50/project_shreyas_sidm/holodeck_output/post_holodeck_redshift_minus1_fix/correct_prior_implementation/SIDM_Astro_Uniform_Extended_Version2_n8000_r2000_f5/library/sam-library.hdf5
+loss_function nll_with_obs_uncertainty
+loss_source .../nn_training_output/losses.py
+loss_description Gaussian negative log-likelihood with observational uncertainty added in quadrature to predictive scale
+versions {'tensorflow': '2.15.1', 'tensorflow_probability': '0.23.0'}
